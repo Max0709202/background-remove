@@ -41,7 +41,7 @@ Both implementations use Transformers.js to run the machine learning models dire
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/addyosmani/bg-remove.git
+git clone https://github.com/Max0709202/background-remove.git
 ```
 
 2. Install dependencies:
@@ -70,7 +70,7 @@ npm run dev
 
 ## Credits
 
-Based on the [WebGPU background removal demo](https://github.com/huggingface/transformers.js-examples/tree/main/remove-background-webgpu) by [@xenova](https://github.com/xenova)
+Based on the [WebGPU background removal demo](https://github.com/huggingface/transformers.js-examples/tree/main/remove-background-webgpu) by [@Max0709202](https://github.com/Max0709202/)
 
 ## License
 
